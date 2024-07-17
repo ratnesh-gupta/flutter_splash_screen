@@ -4,7 +4,8 @@ Flutter application with splash screen
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with splash screen.
+We had used the Flutter Native Splash screen package[https://pub.dev/packages/flutter_native_splash].
 
 A few resources to get you started if this is your first Flutter project:
 
